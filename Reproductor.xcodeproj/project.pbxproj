@@ -7,14 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C1B432F1CC00866008AFE8D /* Rumor Has It.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B432E1CC00866008AFE8D /* Rumor Has It.mp3 */; };
+		2C1B43321CC008D4008AFE8D /* 21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43311CC008D4008AFE8D /* 21.jpg */; };
+		2C1B43341CC00992008AFE8D /* Rent A Cop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43331CC00992008AFE8D /* Rent A Cop.mp3 */; };
+		2C1B43361CC00A07008AFE8D /* Supersunnyspeedgraphic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43351CC00A07008AFE8D /* Supersunnyspeedgraphic.jpg */; };
+		2C1B43381CC00AB4008AFE8D /* Sober In June.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43371CC00AB4008AFE8D /* Sober In June.mp3 */; };
+		2C1B433A1CC00AD5008AFE8D /* Voff Voff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43391CC00AD5008AFE8D /* Voff Voff.jpg */; };
+		2C1B433C1CC00B62008AFE8D /* If I Had Eyes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B433B1CC00B62008AFE8D /* If I Had Eyes.mp3 */; };
+		2C1B433E1CC00B7F008AFE8D /* Sleep Through The Static.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B433D1CC00B7F008AFE8D /* Sleep Through The Static.jpg */; };
+		2C1B43401CC00C72008AFE8D /* Mister Sandman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B433F1CC00C72008AFE8D /* Mister Sandman.mp3 */; };
+		2C1B43421CC00CA0008AFE8D /* tribute to famous people.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B43411CC00CA0008AFE8D /* tribute to famous people.jpg */; };
 		2C3CF8F01CBEB51F0067FBB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3CF8EF1CBEB51F0067FBB8 /* AppDelegate.swift */; };
 		2C3CF8F21CBEB51F0067FBB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3CF8F11CBEB51F0067FBB8 /* ViewController.swift */; };
 		2C3CF8F51CBEB51F0067FBB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C3CF8F31CBEB51F0067FBB8 /* Main.storyboard */; };
 		2C3CF8F71CBEB51F0067FBB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C3CF8F61CBEB51F0067FBB8 /* Assets.xcassets */; };
 		2C3CF8FA1CBEB51F0067FBB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C3CF8F81CBEB51F0067FBB8 /* LaunchScreen.storyboard */; };
+		2C3CF9021CBEB9810067FBB8 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3CF9011CBEB9810067FBB8 /* AVKit.framework */; };
+		2C3CF9041CBEB9880067FBB8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3CF9031CBEB9880067FBB8 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C1B432E1CC00866008AFE8D /* Rumor Has It.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rumor Has It.mp3"; sourceTree = "<group>"; };
+		2C1B43311CC008D4008AFE8D /* 21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 21.jpg; sourceTree = "<group>"; };
+		2C1B43331CC00992008AFE8D /* Rent A Cop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rent A Cop.mp3"; sourceTree = "<group>"; };
+		2C1B43351CC00A07008AFE8D /* Supersunnyspeedgraphic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Supersunnyspeedgraphic.jpg; sourceTree = "<group>"; };
+		2C1B43371CC00AB4008AFE8D /* Sober In June.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sober In June.mp3"; sourceTree = "<group>"; };
+		2C1B43391CC00AD5008AFE8D /* Voff Voff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Voff Voff.jpg"; sourceTree = "<group>"; };
+		2C1B433B1CC00B62008AFE8D /* If I Had Eyes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "If I Had Eyes.mp3"; sourceTree = "<group>"; };
+		2C1B433D1CC00B7F008AFE8D /* Sleep Through The Static.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sleep Through The Static.jpg"; sourceTree = "<group>"; };
+		2C1B433F1CC00C72008AFE8D /* Mister Sandman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mister Sandman.mp3"; sourceTree = "<group>"; };
+		2C1B43411CC00CA0008AFE8D /* tribute to famous people.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tribute to famous people.jpg"; sourceTree = "<group>"; };
 		2C3CF8EC1CBEB51F0067FBB8 /* Reproductor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reproductor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C3CF8EF1CBEB51F0067FBB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C3CF8F11CBEB51F0067FBB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +44,8 @@
 		2C3CF8F61CBEB51F0067FBB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C3CF8F91CBEB51F0067FBB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C3CF8FB1CBEB51F0067FBB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C3CF9011CBEB9810067FBB8 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		2C3CF9031CBEB9880067FBB8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,12 +53,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C3CF9041CBEB9880067FBB8 /* AVFoundation.framework in Frameworks */,
+				2C3CF9021CBEB9810067FBB8 /* AVKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2C1B43301CC008C8008AFE8D /* Covers */ = {
+			isa = PBXGroup;
+			children = (
+				2C1B43311CC008D4008AFE8D /* 21.jpg */,
+				2C1B43351CC00A07008AFE8D /* Supersunnyspeedgraphic.jpg */,
+				2C1B43391CC00AD5008AFE8D /* Voff Voff.jpg */,
+				2C1B433D1CC00B7F008AFE8D /* Sleep Through The Static.jpg */,
+				2C1B43411CC00CA0008AFE8D /* tribute to famous people.jpg */,
+			);
+			name = Covers;
+			sourceTree = "<group>";
+		};
 		2C3CF8E31CBEB51F0067FBB8 = {
 			isa = PBXGroup;
 			children = (
@@ -59,9 +97,33 @@
 				2C3CF8F31CBEB51F0067FBB8 /* Main.storyboard */,
 				2C3CF8F61CBEB51F0067FBB8 /* Assets.xcassets */,
 				2C3CF8F81CBEB51F0067FBB8 /* LaunchScreen.storyboard */,
+				2C1B43301CC008C8008AFE8D /* Covers */,
+				2C3CF9061CBEC34C0067FBB8 /* Songs */,
+				2C3CF9051CBEB9AC0067FBB8 /* Frameworks */,
 				2C3CF8FB1CBEB51F0067FBB8 /* Info.plist */,
 			);
 			path = Reproductor;
+			sourceTree = "<group>";
+		};
+		2C3CF9051CBEB9AC0067FBB8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2C3CF9031CBEB9880067FBB8 /* AVFoundation.framework */,
+				2C3CF9011CBEB9810067FBB8 /* AVKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C3CF9061CBEC34C0067FBB8 /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				2C1B432E1CC00866008AFE8D /* Rumor Has It.mp3 */,
+				2C1B43331CC00992008AFE8D /* Rent A Cop.mp3 */,
+				2C1B43371CC00AB4008AFE8D /* Sober In June.mp3 */,
+				2C1B433B1CC00B62008AFE8D /* If I Had Eyes.mp3 */,
+				2C1B433F1CC00C72008AFE8D /* Mister Sandman.mp3 */,
+			);
+			name = Songs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,8 +184,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C1B43321CC008D4008AFE8D /* 21.jpg in Resources */,
+				2C1B43361CC00A07008AFE8D /* Supersunnyspeedgraphic.jpg in Resources */,
+				2C1B433C1CC00B62008AFE8D /* If I Had Eyes.mp3 in Resources */,
+				2C1B432F1CC00866008AFE8D /* Rumor Has It.mp3 in Resources */,
+				2C1B43381CC00AB4008AFE8D /* Sober In June.mp3 in Resources */,
+				2C1B43341CC00992008AFE8D /* Rent A Cop.mp3 in Resources */,
 				2C3CF8FA1CBEB51F0067FBB8 /* LaunchScreen.storyboard in Resources */,
+				2C1B43421CC00CA0008AFE8D /* tribute to famous people.jpg in Resources */,
+				2C1B433E1CC00B7F008AFE8D /* Sleep Through The Static.jpg in Resources */,
 				2C3CF8F71CBEB51F0067FBB8 /* Assets.xcassets in Resources */,
+				2C1B433A1CC00AD5008AFE8D /* Voff Voff.jpg in Resources */,
+				2C1B43401CC00C72008AFE8D /* Mister Sandman.mp3 in Resources */,
 				2C3CF8F51CBEB51F0067FBB8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +358,7 @@
 				2C3CF9001CBEB51F0067FBB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
