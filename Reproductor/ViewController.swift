@@ -49,6 +49,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             return false
         }
         albumCover.image = UIImage(named: imageList[index])
+        songTittle.text = songList[index]
         return true
     }
 
