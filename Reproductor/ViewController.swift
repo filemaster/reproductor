@@ -73,15 +73,12 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
     @IBAction func random() {
-        let playing = reproductor.playing
         let songIndex = Int(arc4random_uniform(UInt32(songList.count)))
         if nuevaCancion(songIndex){
             let tableIP = NSIndexPath(forRow: songIndex, inSection: 0)
             songsTableView.selectRowAtIndexPath(tableIP, animated: true, scrollPosition: .None)
         }
-        if playing{
-            reproductor.play()
-        }
+        reproductor.play()
     }
     
     @IBAction func lessVolume() {
@@ -109,11 +106,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        let playing = reproductor.playing
         nuevaCancion(indexPath.row)
-        if playing {
-            reproductor.play()
-        }
+        reproductor.play()
     }
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
