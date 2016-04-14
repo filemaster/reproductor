@@ -52,9 +52,9 @@
                                     <action selector="stop" destination="BYZ-38-t0r" eventType="touchUpInside" id="g05-aN-aKp"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="epg-mV-b0b">
-                                <rect key="frame" x="42" y="391" width="57" height="30"/>
-                                <state key="normal" title="Random"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="epg-mV-b0b">
+                                <rect key="frame" x="46" y="391" width="50" height="30"/>
+                                <state key="normal" title="Shuffle"/>
                                 <connections>
                                     <action selector="random" destination="BYZ-38-t0r" eventType="touchUpInside" id="DdT-um-kUi"/>
                                 </connections>
